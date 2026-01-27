@@ -13,7 +13,7 @@ This VR Lab app allows you to do multiple experiments in one place.
 </p>
 
 ## 📦 Download APK
-👉 **[Download APK (125 MB)](https://drive.google.com/uc?export=download&id=1EkeSQQHfLPoJVjQ-l7fys9mXY3EgnDy-)**
+👉 **[Download APK (125 MB)](https://drive.google.com/file/d/186lUh8_npiKefU520FVZ03fwVMx-6OeW/view?usp=sharing)**
 
 > Hosted on Google Drive due to GitHub file size limits.
 
